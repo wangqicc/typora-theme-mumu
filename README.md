@@ -2,7 +2,7 @@
 
 ## 默认样式
 
-![mumu 1](mumu\mumu-1.png)
+![mumu 1](mumu/mumu-1.png)
 
 ![mumu 2](mumu/mumu-2.png)
 
