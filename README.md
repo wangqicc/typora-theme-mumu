@@ -1,22 +1,22 @@
-# Typora Theme MUMU
+# Typora Theme WOOD
 
 ## 默认样式
 
-![mumu 1](mumu/mumu-1.png)
+![wood 1](wood/wood-1.png)
 
-![mumu 2](mumu/mumu-2.png)
+![wood 2](wood/wood-2.png)
 
 ## 黑暗样式
 
-![mumu dark 1](mumu/mumu-dark-1.png)
+![wood dark 1](wood/wood-dark-1.png)
 
-![mumu dark 2](mumu/mumu-dark-2.png)
+![wood dark 2](wood/wood-dark-2.png)
 
 ## 使用方法
 
 1. 打开Typora，依次选择`文件` -> `偏好设置` -> `外观` -> `打开主题文件夹`
 
-2. 将`mumu.css`和`mumu-dark.css`复制到文件夹中
+2. 将`wood.css`和`wood-dark.css`复制到文件夹中
 
-3. 依次选择`主题` -> `Mumu`或`主题` -> `Mumu Dark`即可
+3. 依次选择`主题` -> `Wood`或`Wood Dark`即可
 

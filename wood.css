@@ -322,6 +322,19 @@ mark {
   opacity: 1;
   background: var(--theme-code-tip-bg-color);
 }
+.md-rawblock-control:not(.md-rawblock-tooltip) {
+  background: var(--theme-bg-color);
+}
+.md-rawblock:hover>.md-rawblock-container{
+  background: var(--theme-primary-color);
+}
+.md-rawblock:hover>.md-rawblock-tooltip {
+  background: var(--theme-primary-color);
+  animation: backagroud .5s linear;
+}
+.md-rawblock-on-edit>.md-rawblock-tooltip {
+  background: var(--theme-primary-color);
+}
 
 /* 图片 */
 img {
